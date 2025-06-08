@@ -1,4 +1,11 @@
 Ich bin der Meinung, dass Nvidia sehr schlecht für den Gaming PC Markt ist. Und man dringend einen gleichwertigen Konurrenten braucht.
+Ich verstehe ja nicht, warum so viele Konsumenten ihre Verantwortung beim Kauf ignorieren, verneinen.
+Wieso scheint für viele selbst die Grundbegriffe der Marktwirtschaft so fremd zu sein?
+Wann ist das verloren gegangen oder war das noch nie da?
+Ich bekomme immer mehr den Eindruck man ist Schutzlos den Konzernen ausgesetzt, weil ein Großteil sich wie Schafe verhält und ihre Position in der Marktwirtschaft nicht wahrnimmt.
+Angsteinflößend :(
+Manchmal glaube ich sogar das für viele bedeutet, dass wenn man ein Produkt eines Konzerns kauft, man diesem Konzern ewige Treue schwört und ihn bis aufs Messer verteidigen muss
+
 Hier versuche ich anzuschneiden warum:
 
 # Nvidias Versuch (dank ihres Marktanteils) die Presse für ihre zwecke zu Missbrauchen
