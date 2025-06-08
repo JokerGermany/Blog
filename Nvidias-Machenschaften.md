@@ -10,6 +10,11 @@ Die Preview-Werbeveranstaltungsteilnehmer können sofort nach NDA Fall den "rich
 Das einzige was dem momentan etwas entgegensteht ist, dass der Treiber geleakt wurde...
 Zugriff zu den Karten muss man aber immer noch bekommen...
 
+# Einsparungen bei der Lastverteilung beim 12V-2×6-Stecker.
+Während bei der RTX 3090 Ti noch jeweils 2 Karten auf zu hohe Last geprüft wurden, wurde dies bei der RTX40XX und RTX50XX Serie eingespart.
+https://www.computerbase.de/news/grafikkarten/geforce-rtx-5090-fe-schmelzende-stecker-in-folge-fehlender-lastverteilung.91361/
+
+
 # GTX 970
 https://www.computerbase.de/news/grafikkarten/nvidia-geforce-gtx-970-entschaedigung.55942/
 > Nvidia hatte die GeForce GTX 970 mit falschen Angaben zum Speicher beworben. Daraufhin hatten empörte Kunden Sammelklagen in den USA angestrebt. Jetzt folgte eine Einigung im Verfahren, laut der sich Nvidia bereit erklärt hat, jedem Käufer der Grafikkarte 30 US-Dollar als Entschädigung zu zahlen.
