@@ -38,7 +38,17 @@ Schon bei den "Chinanetzteilen" hat man nicht umsonst gesagt, dass man dazu glei
 Momentan ermittelt das Gewerbeaufsichtsamt Osnabrück.
 Einer der möglichen Probleme:
 § 3 Abs 2. Nr 2. ProdSG
-> Ein Produkt darf, sofern es nicht Absatz 1 unterliegt, nur auf dem Markt bereitgestellt werden, wenn es bei bestimmungsgemäßer oder vorhersehbarer Verwendung die Sicherheit und Gesundheit von Personen nicht gefährdet. Bei der Beurteilung, ob ein Produkt der Anforderung nach Satz 1 entspricht, sind insbesondere zu berücksichtigen die Einwirkungen des Produkts auf andere Produkte, soweit zu erwarten ist, dass es zusammen mit anderen Produkten verwendet wird. 
+> Ein Produkt darf, sofern es nicht Absatz 1 unterliegt, nur auf dem Markt bereitgestellt werden, wenn es bei bestimmungsgemäßer oder vorhersehbarer Verwendung die Sicherheit und Gesundheit von Personen nicht gefährdet. Bei der Beurteilung, ob ein Produkt der Anforderung nach Satz 1 entspricht, sind insbesondere zu berücksichtigen die Einwirkungen des Produkts auf andere Produkte, soweit zu erwarten ist, dass es zusammen mit anderen Produkten verwendet wird.
+
+# Nvidia soll dominante Rolle im AI-Geschäft missbrauchen
+https://www.computerbase.de/news/wirtschaft/ermittlungen-des-us-justizministeriums-nvidia-soll-dominante-rolle-im-ai-geschaeft-missbrauchen.89078/
+https://www.computerbase.de/news/wirtschaft/razzia-in-frankreich-wettbewerbsbehoerde-durchsucht-bueros-von-nvidia.85669/
+
+# CUDA
+Cuda läuft nur auf Nvidia Grafikkarten und sorgt für ein starkes Vendor-Lock-In.
+Intel und AMD haben versucht dies aufzubrechen indem sie ein eine Software (ZLUDA) gebaut haben, die Cuda für ihre Grafikkarten verständlich übersetzen.
+Nvidia hat dies verboten.
+https://www.tomshardware.com/pc-components/gpus/nvidia-bans-using-translation-layers-for-cuda-software-to-run-on-other-chips-new-restriction-apparently-targets-zluda-and-some-chinese-gpu-makers
 
 # GTX 970
 https://www.computerbase.de/news/grafikkarten/nvidia-geforce-gtx-970-entschaedigung.55942/
