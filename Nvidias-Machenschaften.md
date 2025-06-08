@@ -12,8 +12,20 @@ Zugriff zu den Karten muss man aber immer noch bekommen...
 
 # Einsparungen bei der Lastverteilung beim 12V-2×6-Stecker.
 Während bei der RTX 3090 Ti noch jeweils 2 Karten auf zu hohe Last geprüft wurden, wurde dies bei der RTX40XX und RTX50XX Serie eingespart.
-https://www.computerbase.de/news/grafikkarten/geforce-rtx-5090-fe-schmelzende-stecker-in-folge-fehlender-lastverteilung.91361/
+https://www.computerbase.de/news/grafikkarten/geforce-rtx-5090-fe-schmelzende-stecker-in-folge-fehlender-lastverteilung.91361/  
+https://www.youtube.com/watch?v=kb5YzMoVQyw  
+https://www.youtube.com/watch?v=uYQIMyqrLnE
 
+Steckdosen/Stromkabel sind bei der Hausverkabelung mit Sicherungen versehen (wenn sie vorschriftsmäßig abgesichert sind).
+Genau die Sicherung die seit der 3090TI bei Grafikkarten "verschwunden" sind...
+Das Problem ist schlicht und einfach, dass durch das Netzteil quasi bis zu 3,6kw  (je nach Netzteil) solange fließen können, bis das Netzteil ein Problem hat. Quasi ein eigener Kreislauf im Kreislauf.
+Und es ist übrigens auch nicht das erste mal, dass man Sorge hat, das ein Rechner in Flammen aufgeht.
+Schon bei den "Chinanetzteilen" hat man nicht umsonst gesagt, dass man dazu gleich einen Feuerlöscher kaufen sollte. Weiß aber nicht ob Nvidia gerne auf die gleiche Stufe gestellt werden möchte.
+
+Momentan ermittelt das Gewerbeaufsichtsamt Osnabrück.
+Einer der möglichen Probleme:
+§ 3 Abs 2. Nr 2. ProdSG
+> Ein Produkt darf, sofern es nicht Absatz 1 unterliegt, nur auf dem Markt bereitgestellt werden, wenn es bei bestimmungsgemäßer oder vorhersehbarer Verwendung die Sicherheit und Gesundheit von Personen nicht gefährdet. Bei der Beurteilung, ob ein Produkt der Anforderung nach Satz 1 entspricht, sind insbesondere zu berücksichtigen die Einwirkungen des Produkts auf andere Produkte, soweit zu erwarten ist, dass es zusammen mit anderen Produkten verwendet wird. 
 
 # GTX 970
 https://www.computerbase.de/news/grafikkarten/nvidia-geforce-gtx-970-entschaedigung.55942/
