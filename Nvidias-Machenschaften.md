@@ -2,7 +2,10 @@ Ich bin der Meinung, dass Nvidia sehr schlecht für den Gaming PC Markt ist. Und
 Die Grafikkartenpreise werden immer weniger mitgehen wollen und diese werden immer schlimmer werden, da der Quasi-Monopolist durch ihr Quasi-Monopol ihre Proprietäre, nur von ihren eigenen Karten nutzbare Technik durch ihre Verbreitung immer schneller und weiter Verbreitet wird.  
 Und wenn dann ein Spiel mal wagt kein DLSS anzubieten, machen die Spieler druck und unterstützen den Quasi-Monopolist ein noch größerer Quasi-Monopolist zu werden... (Starfield)  
 Verrückt...  
-Ich verstehe ja nicht, warum so viele Konsumenten ihre Verantwortung beim Kauf ignorieren, verneinen.  
+Das die Kunden mit bestimmst, was Nvidia machen kann und was nicht, wird leider meist völlig ausgeblendet.  
+Bloß keine eigene Verantwortung übernehmen, sondern sich beschweren dass der Underdog, den "keiner" kauft kein High End bietet, damit man sein Geld dem Nicht-Underdog geben kann  
+Finde das Problem  
+Ich verstehe ja nicht, warum so viele Konsumenten ihre Verantwortung beim Kauf ignorieren/verneinen.  
 Wieso scheint für viele selbst die Grundbegriffe der Marktwirtschaft so fremd zu sein?  
 Wann ist das verloren gegangen oder war das noch nie da?  
 Ich bekomme immer mehr den Eindruck man ist Schutzlos den Konzernen ausgesetzt, weil ein Großteil sich wie Schafe verhält und ihre Position in der Marktwirtschaft nicht wahrnimmt.  
