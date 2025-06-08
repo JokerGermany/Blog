@@ -21,6 +21,7 @@ https://www.computerbase.de/news/grafikkarten/nvidia-geforce-gtx-970-entschaedig
 
 https://www.computerbase.de/news/grafikkarten/nvidia-ceo-macht-gtx-970-limitierung-zur-neuen-funktion.48434/
 >Auf der [URL='http://www.nvidia.de/object/geforce-gtx-970-de.html#pdpContent=2']Produktseite der GeForce GTX 970[/URL] sind weiterhin weder die Limitierung offengelegt, noch die Spezifikationen korrigiert worden.  
+  
 https://web.archive.org/web/20190706065711/http://www.nvidia.de/object/geforce-gtx-970-de.html
 
 
