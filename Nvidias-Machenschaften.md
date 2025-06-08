@@ -1,6 +1,6 @@
 Ich bin der Meinung, dass Nvidia sehr schlecht für den Gaming PC Markt ist. Und man dringend einen gleichwertigen Konurrenten brauch. 
 Die Grafikkartenpreise werden immer weniger mitgehen wollen und diese werden immer schlimmer werden, da der Quasi-Monopolist durch ihr Quasi-Monopol ihre Proprietäre, nur von ihren eigenen Karten nutzbare Technik durch ihre Verbreitung immer schneller und weiter Verbreitet wird.  
-Und wenn dann ein Spiel mal wagt kein DLSS anzubieten, machen die Spieler druck und unterstützen den Quasi-Monopolist ein noch größerer Quasi-Monopolist zu werden... (Starfield)
+Und wenn dann ein Spiel mal wagt kein DLSS anzubieten, machen die Spieler druck und unterstützen den Quasi-Monopolist ein noch größerer Quasi-Monopolist zu werden... (Starfield)  
 Verrückt...  
 Ich verstehe ja nicht, warum so viele Konsumenten ihre Verantwortung beim Kauf ignorieren, verneinen.  
 Wieso scheint für viele selbst die Grundbegriffe der Marktwirtschaft so fremd zu sein?  
