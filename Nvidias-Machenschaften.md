@@ -1,4 +1,4 @@
-Ich bin der Meinung, dass Nvidia sehr schlecht für den Gaming PC Markt ist.
+Ich bin der Meinung, dass Nvidia sehr schlecht für den Gaming PC Markt ist. Und man dringend einen gleichwertigen Konurrenten braucht.
 Hier versuche ich anzuschneiden warum:
 
 # Nvidias Versuch (dank ihres Marktanteils) die Presse für ihre zwecke zu Missbrauchen
