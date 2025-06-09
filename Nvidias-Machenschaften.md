@@ -61,8 +61,8 @@ https://www.computerbase.de/news/grafikkarten/nvidia-ceo-macht-gtx-970-limitieru
 https://web.archive.org/web/20190706065711/http://www.nvidia.de/object/geforce-gtx-970-de.html
 
 # Batman-Gate
-Teil von Nvidia's "The Way it's meant to be played” Kampagne
-http://www.brightsideofnews.com/news/2009/11/4/batmangate-amd-vs-nvidia-vs-eidos-fight-analyzed.aspx
+Teil von Nvidia's "The Way it's meant to be played” Kampagne  
+http://www.brightsideofnews.com/news/2009/11/4/batmangate-amd-vs-nvidia-vs-eidos-fight-analyzed.aspx  
 https://www.pcgameshardware.de/Grafikkarten-Grafikkarte-97980/News/AMD-gegen-Nvidia-Schwere-Vorwuerfe-wegen-angeblicher-Benachteiligung-in-Batman-Update-Batman-Gate-696333/
 
 > - Der angeblich eigenentwickelte Code stellte sich als größtenteils generische Empfehlung für Unreal-Engine-3 Spiele heraus, welcher sowohl von AMD als auch von Nvidia in der Vergangenheit an Spieleentwickler für UE3-Spiele herausgegeben wurde.
