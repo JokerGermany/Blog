@@ -51,6 +51,14 @@ Intel und AMD haben versucht dies aufzubrechen indem sie ein eine Software (ZLUD
 Nvidia hat dies verboten.
 https://www.tomshardware.com/pc-components/gpus/nvidia-bans-using-translation-layers-for-cuda-software-to-run-on-other-chips-new-restriction-apparently-targets-zluda-and-some-chinese-gpu-makers
 
+# GPP-Gate
+https://www.pcgameshardware.de/AMD-Radeon-Grafikkarte-255597/News/Nvidia-GPP-Asus-Radeon-Arez-ROG-Geruecht-1253917/
+https://www.pcbuildersclub.com/2018/04/nennt-asus-seine-amd-grafikkarten-in-zukunft-arez/
+> Nvidia zieht derzeit einen neuen Marketingtrick aus der Tasche. Mit dem GeForce Partnerprogramm, kurz GPP, will der Hersteller für Grafikchips das Marketing und den Vertrieb von Grafikkarten deutlich stärker vereinheitlichen. Das Partnerprogramm bietet dafür Vorteile, hat jedoch scheinbar deutliche Auflagen. So sollen angeblich AMD- und Nvidia-Grafikkarten nicht den gleichen Marketingnamen erhalten dürfen. Früher gab es auch von AMD-Karten die Partnerkarten mit den Namen Asus ROG Strix, MSI Gaming X oder Gigabyte Aorus. Diese Marken verschwinden jedoch schön langsam für den AMD-Sektor.
+
+https://www.pcbuildersclub.com/2018/04/nvidia-gpp-asus-bestaetigt-den-namen-arez-fuer-amd-grafikkarten/
+> Nvidia versuche, mit solchen Auflagen gezielt AMD aus dem Markt zu drängen. Das hat Anfang der 2000er bereits Intel einmal versucht.
+
 # GTX 970
 https://www.computerbase.de/news/grafikkarten/nvidia-geforce-gtx-970-entschaedigung.55942/
 > Nvidia hatte die GeForce GTX 970 mit falschen Angaben zum Speicher beworben. Daraufhin hatten empörte Kunden Sammelklagen in den USA angestrebt. Jetzt folgte eine Einigung im Verfahren, laut der sich Nvidia bereit erklärt hat, jedem Käufer der Grafikkarte 30 US-Dollar als Entschädigung zu zahlen.
