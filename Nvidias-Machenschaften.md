@@ -12,7 +12,7 @@ Ich bekomme immer mehr den Eindruck man ist Schutzlos den Konzernen ausgesetzt, 
 Angsteinflößend :(  
 Manchmal glaube ich sogar das für viele bedeutet, dass wenn man ein Produkt eines Konzerns kauft, man diesem Konzern ewige Treue schwört und ihn bis aufs Messer verteidigen muss  
 
-[Hier ein Kommentar dazu von Heise](https://www.heise.de/meinung/Kommentar-Nvidias-schmutzige-Kartentricks-2529523.html)
+[Hier ein Kommentar dazu von Heise](https://www.heise.de/meinung/Kommentar-Nvidias-schmutzige-Kartentricks-2529523.html)  
 Hier versuche ich chronlogisch anzuschneiden warum:
 
 # Nvidias Versuch (dank ihres Marktanteils) die Presse für ihre zwecke zu Missbrauchen
