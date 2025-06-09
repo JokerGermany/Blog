@@ -60,6 +60,15 @@ https://www.computerbase.de/news/grafikkarten/nvidia-ceo-macht-gtx-970-limitieru
   
 https://web.archive.org/web/20190706065711/http://www.nvidia.de/object/geforce-gtx-970-de.html
 
+# Batman-Gate
+Teil von Nvidia's "The Way it's meant to be played” Kampagne
+http://www.brightsideofnews.com/news/2009/11/4/batmangate-amd-vs-nvidia-vs-eidos-fight-analyzed.aspx
+https://www.pcgameshardware.de/Grafikkarten-Grafikkarte-97980/News/AMD-gegen-Nvidia-Schwere-Vorwuerfe-wegen-angeblicher-Benachteiligung-in-Batman-Update-Batman-Gate-696333/
+
+> - Der angeblich eigenentwickelte Code stellte sich als größtenteils generische Empfehlung für Unreal-Engine-3 Spiele heraus, welcher sowohl von AMD als auch von Nvidia in der Vergangenheit an Spieleentwickler für UE3-Spiele herausgegeben wurde.
+> - **Eine Device-ID-Abfrage im Code verhindert, dass Antialiasing-Resolve auf Ati-Radeon-Karten durchgeführt wird, nicht jedoch, und das ist das brisante, dass die für den Antialiasing-Code benötigen Z-Buffer-Schreibzugriffe erfolgen. Somit wird Leistung sinnlos verbraten.**
+> Huddy seinerseits brachte interessante E-Mails des Batman-Entwicklers Rocksteady Games (natürlich mit deren Einverständnis) in den Artikel mit ein. Nach deren Inhalt habe man versucht, Publisher und Entwickler dazu zu bewegen, die Device-ID-Abfrage abzuschalten. Die **Rechtsabteilung** von Rocksteady-Games habe jedoch dem Entwickler **geraten, keinen Code zu ändern, welcher von Nvidia stamme.**
+
 # Assassin's Creed Gate
 Als Teil von Nvidia's "The Way it's meant to be played” Kampagne wurde es mit DX 10.1 veröffentlicht. Nvidias Grafikkarten konnten kein DX 10.1 und AMDs Grafikkarten haben massiv von DX 10.1 profitiert. Mit Patch 1.02 wurde DX 10.1 entfernt...
 
