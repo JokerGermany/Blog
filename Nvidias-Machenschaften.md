@@ -93,7 +93,6 @@ https://www.derstandard.at/story/2000004134602/physx-nvidia-schliesst-amd-grafik
 https://www.pcgameshardware.de/PhysX-Software-229957/News/GPU-Physx-mit-AMD-Grafikkarte-unterbunden-1131328/  
 > Nvidia will offenbar nicht, dass GPU-beschleunigte Physx-Effekte genutzt werden können, wenn eine zweite Grafikkarte eines anderen Herstellers im PC verbaut ist. Der aktuelle Treiber soll eine solche Konstellation erkennen und GPU-Physx demzufolge deaktivieren.
 
-
 # Gameworks-Gate
 https://www.pcgameshardware.de/Nvidia-Geforce-Grafikkarte-255598/News/nvidia-gameworks-bremst-angeblich-amd-aus-1103169/  
 https://www.forbes.com/sites/jasonevangelho/2014/05/28/nvidia-fires-back-the-truth-about-gameworks-amd-optimization-and-watch-dogs/  
@@ -106,6 +105,19 @@ https://www.hardwareluxx.de/index.php/news/software/spiele/35361-nvidia-hairwork
 https://www.heise.de/news/Torvalds-zeigt-Nvidia-den-Stinkefinger-1619616.html  
 https://www.golem.de/news/linus-torvalds-stinkefinger-fuer-nvidia-1206-92584.html  
 https://www.youtube.com/watch?v=_36yNWw_07g  
+
+# PhysX - Wir wollen doch nur CPUs schonen
+
+https://www.pcgameshardware.de/Grafikkarten-Grafikkarte-97980/News/Physik-Schlacht-AMD-wirft-Nvidia-zu-wenig-Optimierung-bei-CPUs-vor-Update-Physx-doch-multithreaded-703526/  
+https://www.realworldtech.com/physx87/  
+https://www.hartware.de/2010/07/09/physx-bremst-cpus-aus/  
+https://www.hartware.de/2010/07/13/nvidia-weist-physx-kritik-zuruck/  
+https://de.wikipedia.org/wiki/PhysX  
+> \[...\] in Verbindung mit Hauptprozessoren lediglich einen Kern zur Abarbeitung nutze. Wird aber der Grafikchip als „PhysX-Prozessor“ festgelegt, dann verpacke der GeForce-Treiber die Aufgaben automatisch in mehrere Threads, und die Bildrate schnelle in die Höhe. Außerdem nutze Nvidia lediglich veraltete x87-Befehle für Gleitkommaberechnungen, von denen Intel und AMD schon seit Anfang 2000 abraten. Effiziente SSE-Befehle, die ohne größeren Programmieraufwand eingebunden werden könnten und die Performance auf aktuellen CPUs deutlich steigern würden, nutze Nvidia bei PhysX nicht.  
+>  
+> Daraus leitete Realworldtech den Verdacht ab, Nvidia bremse die Berechnung von PhysX-Effekten auf CPUs künstlich aus, um den GeForce-Grafikkarten ein weiteres Verkaufsargument angedeihen zu lassen.  
+>  
+> Nvidias Senior-PR-Manager Bryan Del Rizzo wies einerseits die Vorwürfe der absichtlichen Ausbremsung der CPUs zurück, versprach aber anderseits in der PhysX-Version 3.0 automatisches Multithreading und SSE-Unterstützung.
 
 # Batman-Gate
 Teil von Nvidia's "The Way it's meant to be played” Kampagne  
