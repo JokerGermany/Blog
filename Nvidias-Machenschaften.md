@@ -51,6 +51,13 @@ Intel und AMD haben versucht dies aufzubrechen indem sie ein eine Software (ZLUD
 Nvidia hat dies verboten.
 https://www.tomshardware.com/pc-components/gpus/nvidia-bans-using-translation-layers-for-cuda-software-to-run-on-other-chips-new-restriction-apparently-targets-zluda-and-some-chinese-gpu-makers
 
+# NDA - Episode Hardware Unboxed
+https://www.youtube.com/watch?v=wdAMcQgR92k  
+https://www.youtube.com/watch?v=3GyaSfOi6fs  
+https://www.derstandard.at/story/2000122473423/pr-debakel-massive-kritik-an-nvidia-nach-erpressung-von-tech  
+https://www.heise.de/news/NVIDIA-Eingriff-in-redaktionelle-Inhalte-wieder-einmal-4988193.html  
+> \[...\] testete die von Nvidia zur Verfügung gestellte Hardware nicht so, wie sich der Grafikkarten-Hersteller das vorgestellt hat und dieser erklärte daraufhin, Hardware Unboxed offiziell von der Liste der Empfänger von Testexemplaren der GeForce Founders Edition zu streichen. Zumindest, solange sich die redaktionelle Richtung nicht ändern sollte.
+
 # NDA - Episode Heise - Nvidia-NDA als Maulkorb für Journalisten 
 https://www.heise.de/news/In-eigener-Sache-Nvidia-NDA-als-Maulkorb-fuer-Journalisten-4091751.html
 > Manche Firmen setzen NDAs allerdings auch als Waffen ein. Sie wollen Journalisten nicht nur dazu bringen, sich an Veröffentlichungstermine zu halten, sondern auch mit weitgehenden Vereinbarungen und horrenden Strafandrohungen wohlfeile Berichterstattung erzwingen. Wer sich nicht beugt, wird vom Informationsfluss abgeschnitten.  
