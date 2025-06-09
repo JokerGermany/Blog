@@ -41,6 +41,7 @@ Einer der möglichen Probleme:
 > Ein Produkt darf, sofern es nicht Absatz 1 unterliegt, nur auf dem Markt bereitgestellt werden, wenn es bei bestimmungsgemäßer oder vorhersehbarer Verwendung die Sicherheit und Gesundheit von Personen nicht gefährdet. Bei der Beurteilung, ob ein Produkt der Anforderung nach Satz 1 entspricht, sind insbesondere zu berücksichtigen die Einwirkungen des Produkts auf andere Produkte, soweit zu erwarten ist, dass es zusammen mit anderen Produkten verwendet wird.
 
 # Nvidia soll dominante Rolle im AI-Geschäft missbrauchen
+https://www.computerbase.de/news/wirtschaft/angst-und-gpu-kartell-nvidia-soll-dominanz-im-ai-geschaeft-missbrauchen.87206/  
 https://www.computerbase.de/news/wirtschaft/ermittlungen-des-us-justizministeriums-nvidia-soll-dominante-rolle-im-ai-geschaeft-missbrauchen.89078/  
 https://www.computerbase.de/news/wirtschaft/razzia-in-frankreich-wettbewerbsbehoerde-durchsucht-bueros-von-nvidia.85669/
 
