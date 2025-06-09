@@ -12,7 +12,7 @@ Ich bekomme immer mehr den Eindruck man ist Schutzlos den Konzernen ausgesetzt, 
 Angsteinflößend :(  
 Manchmal glaube ich sogar das für viele bedeutet, dass wenn man ein Produkt eines Konzerns kauft, man diesem Konzern ewige Treue schwört und ihn bis aufs Messer verteidigen muss  
 
-Hier versuche ich anzuschneiden warum:
+Hier versuche ich chronlogisch anzuschneiden warum:
 
 # Nvidias Versuch (dank ihres Marktanteils) die Presse für ihre zwecke zu Missbrauchen
 https://www.youtube.com/watch?v=ptpvph5EcRY
@@ -66,7 +66,7 @@ http://www.brightsideofnews.com/news/2009/11/4/batmangate-amd-vs-nvidia-vs-eidos
 https://www.pcgameshardware.de/Grafikkarten-Grafikkarte-97980/News/AMD-gegen-Nvidia-Schwere-Vorwuerfe-wegen-angeblicher-Benachteiligung-in-Batman-Update-Batman-Gate-696333/
 
 > - Der angeblich eigenentwickelte Code stellte sich als größtenteils generische Empfehlung für Unreal-Engine-3 Spiele heraus, welcher sowohl von AMD als auch von Nvidia in der Vergangenheit an Spieleentwickler für UE3-Spiele herausgegeben wurde.
-> - **Eine Device-ID-Abfrage im Code verhindert, dass Antialiasing-Resolve auf Ati-Radeon-Karten durchgeführt wird, nicht jedoch, und das ist das brisante, dass die für den Antialiasing-Code benötigen Z-Buffer-Schreibzugriffe erfolgen. Somit wird Leistung sinnlos verbraten.**
+> - **Eine Device-ID-Abfrage im Code verhindert, dass Antialiasing-Resolve auf Ati-Radeon-Karten durchgeführt wird, nicht jedoch, und das ist das brisante, dass die für den Antialiasing-Code benötigen Z-Buffer-Schreibzugriffe erfolgen. Somit wird Leistung sinnlos verbraten.**  
 > Huddy seinerseits brachte interessante E-Mails des Batman-Entwicklers Rocksteady Games (natürlich mit deren Einverständnis) in den Artikel mit ein. Nach deren Inhalt habe man versucht, Publisher und Entwickler dazu zu bewegen, die Device-ID-Abfrage abzuschalten. Die **Rechtsabteilung** von Rocksteady-Games habe jedoch dem Entwickler **geraten, keinen Code zu ändern, welcher von Nvidia stamme.**
 
 # Assassin's Creed Gate
