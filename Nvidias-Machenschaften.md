@@ -60,4 +60,7 @@ https://www.computerbase.de/news/grafikkarten/nvidia-ceo-macht-gtx-970-limitieru
   
 https://web.archive.org/web/20190706065711/http://www.nvidia.de/object/geforce-gtx-970-de.html
 
+# Assassin's Creed Gate
+Als Teil von Nvidia's "The Way it's meant to be played” Kampange wurde es mit DX 10.1 veröffentlicht. Nvidias Grafikkarten konnten kein DX 10.1 und AMDs Grafikkarten haben massiv von DX 10.1 profitiert. Mit Patch 1.02 wurde DX 10.1 entfernt...
+
 
