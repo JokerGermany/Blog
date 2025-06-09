@@ -80,12 +80,12 @@ https://www.pcbuildersclub.com/2018/04/nvidia-gpp-asus-bestaetigt-den-namen-arez
 > Nvidia versuche, mit solchen Auflagen gezielt AMD aus dem Markt zu drängen. Das hat Anfang der 2000er bereits Intel einmal versucht.
 
 # GTX 970
+https://www.heise.de/news/Nvidia-Grafikkarten-GeForce-GTX-970-hat-auch-weniger-Rasterendstufen-und-L2-Cache-als-behauptet-2529302.html
 https://www.computerbase.de/news/grafikkarten/nvidia-geforce-gtx-970-entschaedigung.55942/
 > Nvidia hatte die GeForce GTX 970 mit falschen Angaben zum Speicher beworben. Daraufhin hatten empörte Kunden Sammelklagen in den USA angestrebt. Jetzt folgte eine Einigung im Verfahren, laut der sich Nvidia bereit erklärt hat, jedem Käufer der Grafikkarte 30 US-Dollar als Entschädigung zu zahlen.
 
 https://www.computerbase.de/news/grafikkarten/nvidia-ceo-macht-gtx-970-limitierung-zur-neuen-funktion.48434/
->Auf der [URL='http://www.nvidia.de/object/geforce-gtx-970-de.html#pdpContent=2']Produktseite der GeForce GTX 970[/URL] sind weiterhin weder die Limitierung offengelegt, noch die Spezifikationen korrigiert worden.  
-  
+>Auf der Produktseite der GeForce GTX 970[/URL] sind weiterhin weder die Limitierung offengelegt, noch die Spezifikationen korrigiert worden.  
 https://web.archive.org/web/20190706065711/http://www.nvidia.de/object/geforce-gtx-970-de.html
 
 # PhysX - Du sollst keine andere Grafikkarte neben Nvidia haben!
