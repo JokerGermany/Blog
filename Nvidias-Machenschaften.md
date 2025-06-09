@@ -60,6 +60,14 @@ https://www.computerbase.de/news/grafikkarten/nvidia-ceo-macht-gtx-970-limitieru
   
 https://web.archive.org/web/20190706065711/http://www.nvidia.de/object/geforce-gtx-970-de.html
 
+# Gameworks-Gate
+ttps://www.pcgameshardware.de/Nvidia-Geforce-Grafikkarte-255598/News/nvidia-gameworks-bremst-angeblich-amd-aus-1103169/  
+https://www.forbes.com/sites/jasonevangelho/2014/05/28/nvidia-fires-back-the-truth-about-gameworks-amd-optimization-and-watch-dogs/  
+> “Participation in the Gameworks program often precludes the developer from accepting AMD suggestions that would improve performance directly in the game code—the most desirable form of optimization.”
+
+https://www.hardwareluxx.de/index.php/news/software/spiele/35361-nvidia-hairworks-beeintraechtigt-leistung-auf-amd-gpus-in-the-witcher-3.html
+> Nun nahm ein Entwickler des Entwicklerstudios hinter „The Witcher 3“ das Wort an sich und gab bekannt, dass NVIDIA HairWorks, ein Teil des GameWorks-Programms, zwar auf Grafikkarten aus dem Hause AMD laufen werde, aber nicht mit einer zufriedenstellenden Performance. Das liegt vor allem daran, dass es AMD nicht möglich ist, seine Treiber auf den Closed-Source-GameWorks-Code hin zu optimieren.
+
 # Batman-Gate
 Teil von Nvidia's "The Way it's meant to be played” Kampagne  
 http://www.brightsideofnews.com/news/2009/11/4/batmangate-amd-vs-nvidia-vs-eidos-fight-analyzed.aspx  
