@@ -51,6 +51,18 @@ Intel und AMD haben versucht dies aufzubrechen indem sie ein eine Software (ZLUD
 Nvidia hat dies verboten.
 https://www.tomshardware.com/pc-components/gpus/nvidia-bans-using-translation-layers-for-cuda-software-to-run-on-other-chips-new-restriction-apparently-targets-zluda-and-some-chinese-gpu-makers
 
+# NDA - Episode Heise - Nvidia-NDA als Maulkorb für Journalisten 
+https://www.heise.de/news/In-eigener-Sache-Nvidia-NDA-als-Maulkorb-fuer-Journalisten-4091751.html
+> Manche Firmen setzen NDAs allerdings auch als Waffen ein. Sie wollen Journalisten nicht nur dazu bringen, sich an Veröffentlichungstermine zu halten, sondern auch mit weitgehenden Vereinbarungen und horrenden Strafandrohungen wohlfeile Berichterstattung erzwingen. Wer sich nicht beugt, wird vom Informationsfluss abgeschnitten.  
+> [...]  
+> Das NDA sollte für alle Informationen von Nvidia gelten, bezog sich also nicht auf ein konkretes Produkt oder eine konkrete Information. Ein konkretes Ablaufdatum gab es auch nicht. Zudem war es voll von Bedingungen, die journalistischen Grundsätzen zuwider laufen. Unsere Rechtsabteilung schlug bei der Lektüre des Dokuments die Hände über den Kopf zusammen.
+>  
+> So heißt es (ins Deutsche übersetzt): "Der Empfänger verwendet vertrauliche Informationen ausschließlich zu Gunsten von Nvidia". Anders ausgedrückt: Journalisten dürfen nur das schreiben, was Nvidia in den Kram passt. Damit degradiert Nvidia die unabhängige Presse zu einem Marketing-Instrument.  
+>  
+> Und es geht noch weiter: "Ungeachtet des Ablaufs dieser Vereinbarung erlöschen die Verpflichtungen des Empfängers in Bezug auf jegliche vertrauliche Information fünf Jahre nach dem Datum ihrer Weitergabe an den Empfänger." Wer dieses Nvidia-NDA unterschreibt, muss sich also fünf Jahre lang dem Willen des amerikanischen Herstellers beugen – veröffentlicht man etwas in dieser Zeit ohne Erlaubnis, droht der Klagehammer.  
+>  
+> Doch Nvidia geht noch weiter: "Der Schutz von Informationen, die ein Geschäftsgeheimnis darstellen, erlischt nie." Mit anderen Worten: Wenn Nvidia meint, es handele sich bei einer Information um ein Geschäftsgeheimnis, dann darf der Journalisten im schlimmsten Fall nie darüber sprechen.  
+
 # GPP-Gate
 https://www.pcgameshardware.de/AMD-Radeon-Grafikkarte-255597/News/Nvidia-GPP-Asus-Radeon-Arez-ROG-Geruecht-1253917/
 https://www.pcbuildersclub.com/2018/04/nennt-asus-seine-amd-grafikkarten-in-zukunft-arez/
