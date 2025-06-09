@@ -130,7 +130,7 @@ https://www.pcgameshardware.de/Grafikkarten-Grafikkarte-97980/News/AMD-gegen-Nvi
 > Huddy seinerseits brachte interessante E-Mails des Batman-Entwicklers Rocksteady Games (natürlich mit deren Einverständnis) in den Artikel mit ein. Nach deren Inhalt habe man versucht, Publisher und Entwickler dazu zu bewegen, die Device-ID-Abfrage abzuschalten. Die **Rechtsabteilung** von Rocksteady-Games habe jedoch dem Entwickler **geraten, keinen Code zu ändern, welcher von Nvidia stamme.**
 
 # Fermi - Nvidia stellt Attrappe vor
-https://www.golem.de/0910/70292.html
+https://www.golem.de/0910/70292.html  
 https://www.heise.de/news/GTC-Gezeigte-Fermi-Karte-war-eine-Attrappe-808570.html
 
 # Assassin's Creed Gate
