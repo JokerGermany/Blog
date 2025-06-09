@@ -96,6 +96,11 @@ https://www.forbes.com/sites/jasonevangelho/2014/05/28/nvidia-fires-back-the-tru
 https://www.hardwareluxx.de/index.php/news/software/spiele/35361-nvidia-hairworks-beeintraechtigt-leistung-auf-amd-gpus-in-the-witcher-3.html
 > Nun nahm ein Entwickler des Entwicklerstudios hinter „The Witcher 3“ das Wort an sich und gab bekannt, dass NVIDIA HairWorks, ein Teil des GameWorks-Programms, zwar auf Grafikkarten aus dem Hause AMD laufen werde, aber nicht mit einer zufriedenstellenden Performance. Das liegt vor allem daran, dass es AMD nicht möglich ist, seine Treiber auf den Closed-Source-GameWorks-Code hin zu optimieren.
 
+# Linux-Treiber
+https://www.heise.de/news/Torvalds-zeigt-Nvidia-den-Stinkefinger-1619616.html  
+https://www.golem.de/news/linus-torvalds-stinkefinger-fuer-nvidia-1206-92584.html  
+https://www.youtube.com/watch?v=_36yNWw_07g  
+
 # Batman-Gate
 Teil von Nvidia's "The Way it's meant to be played” Kampagne  
 http://www.brightsideofnews.com/news/2009/11/4/batmangate-amd-vs-nvidia-vs-eidos-fight-analyzed.aspx  
