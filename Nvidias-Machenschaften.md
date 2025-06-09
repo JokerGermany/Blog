@@ -88,6 +88,12 @@ https://www.computerbase.de/news/grafikkarten/nvidia-ceo-macht-gtx-970-limitieru
   
 https://web.archive.org/web/20190706065711/http://www.nvidia.de/object/geforce-gtx-970-de.html
 
+# PhysX - Du sollst keine andere Grafikkarte neben Nvidia haben!
+https://www.derstandard.at/story/2000004134602/physx-nvidia-schliesst-amd-grafikkarten-nun-offiziell-aus  
+https://www.pcgameshardware.de/PhysX-Software-229957/News/GPU-Physx-mit-AMD-Grafikkarte-unterbunden-1131328/  
+> Nvidia will offenbar nicht, dass GPU-beschleunigte Physx-Effekte genutzt werden können, wenn eine zweite Grafikkarte eines anderen Herstellers im PC verbaut ist. Der aktuelle Treiber soll eine solche Konstellation erkennen und GPU-Physx demzufolge deaktivieren.
+
+
 # Gameworks-Gate
 https://www.pcgameshardware.de/Nvidia-Geforce-Grafikkarte-255598/News/nvidia-gameworks-bremst-angeblich-amd-aus-1103169/  
 https://www.forbes.com/sites/jasonevangelho/2014/05/28/nvidia-fires-back-the-truth-about-gameworks-amd-optimization-and-watch-dogs/  
