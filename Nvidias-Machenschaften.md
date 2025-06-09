@@ -12,6 +12,7 @@ Ich bekomme immer mehr den Eindruck man ist Schutzlos den Konzernen ausgesetzt, 
 Angsteinflößend :(  
 Manchmal glaube ich sogar das für viele bedeutet, dass wenn man ein Produkt eines Konzerns kauft, man diesem Konzern ewige Treue schwört und ihn bis aufs Messer verteidigen muss  
 
+[Hier ein Kommentar dazu von Heise](https://www.heise.de/meinung/Kommentar-Nvidias-schmutzige-Kartentricks-2529523.html)
 Hier versuche ich chronlogisch anzuschneiden warum:
 
 # Nvidias Versuch (dank ihres Marktanteils) die Presse für ihre zwecke zu Missbrauchen
@@ -127,6 +128,10 @@ https://www.pcgameshardware.de/Grafikkarten-Grafikkarte-97980/News/AMD-gegen-Nvi
 > - Der angeblich eigenentwickelte Code stellte sich als größtenteils generische Empfehlung für Unreal-Engine-3 Spiele heraus, welcher sowohl von AMD als auch von Nvidia in der Vergangenheit an Spieleentwickler für UE3-Spiele herausgegeben wurde.
 > - **Eine Device-ID-Abfrage im Code verhindert, dass Antialiasing-Resolve auf Ati-Radeon-Karten durchgeführt wird, nicht jedoch, und das ist das brisante, dass die für den Antialiasing-Code benötigen Z-Buffer-Schreibzugriffe erfolgen. Somit wird Leistung sinnlos verbraten.**  
 > Huddy seinerseits brachte interessante E-Mails des Batman-Entwicklers Rocksteady Games (natürlich mit deren Einverständnis) in den Artikel mit ein. Nach deren Inhalt habe man versucht, Publisher und Entwickler dazu zu bewegen, die Device-ID-Abfrage abzuschalten. Die **Rechtsabteilung** von Rocksteady-Games habe jedoch dem Entwickler **geraten, keinen Code zu ändern, welcher von Nvidia stamme.**
+
+# Fermi - Nvidia stellt Attrappe vor
+https://www.golem.de/0910/70292.html
+https://www.heise.de/news/GTC-Gezeigte-Fermi-Karte-war-eine-Attrappe-808570.html
 
 # Assassin's Creed Gate
 Als Teil von Nvidia's "The Way it's meant to be played” Kampagne wurde es mit DX 10.1 veröffentlicht. Nvidias Grafikkarten konnten kein DX 10.1 und AMDs Grafikkarten haben massiv von DX 10.1 profitiert. Mit Patch 1.02 wurde DX 10.1 entfernt...
