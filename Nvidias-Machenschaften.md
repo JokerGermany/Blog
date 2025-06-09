@@ -61,7 +61,7 @@ https://www.computerbase.de/news/grafikkarten/nvidia-ceo-macht-gtx-970-limitieru
 https://web.archive.org/web/20190706065711/http://www.nvidia.de/object/geforce-gtx-970-de.html
 
 # Gameworks-Gate
-ttps://www.pcgameshardware.de/Nvidia-Geforce-Grafikkarte-255598/News/nvidia-gameworks-bremst-angeblich-amd-aus-1103169/  
+https://www.pcgameshardware.de/Nvidia-Geforce-Grafikkarte-255598/News/nvidia-gameworks-bremst-angeblich-amd-aus-1103169/  
 https://www.forbes.com/sites/jasonevangelho/2014/05/28/nvidia-fires-back-the-truth-about-gameworks-amd-optimization-and-watch-dogs/  
 > “Participation in the Gameworks program often precludes the developer from accepting AMD suggestions that would improve performance directly in the game code—the most desirable form of optimization.”
 
